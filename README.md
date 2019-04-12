@@ -40,4 +40,4 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 -	José Reinaldo Pereira Júnior - https://github.com/ReinaldoJunior96/Desafio-Ceuma
 - André Felipe Carvalho Pinheiro - https://github.com/AndreCarvalho94/teste-ceuma
 - Ramon Costa Silva - https://github.com/SilvaRamon/desafio
-
+-   Lucas Goiabeira Farias - https://github.com/luucasfarias/Desafio_Ceuma
