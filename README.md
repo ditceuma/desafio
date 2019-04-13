@@ -8,7 +8,7 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 -	Inserir 3 cursos (código do curso, nome do curso, data de cadastro, carga horária) *Administração, Direito, Medicina;
 -	Remover cursos;
 -	Alterar cursos;
--	Inserir 7 alunos (código do aluno, nome do aluno, CPF, Endereço, CEP, E-mail, número de Telefone) atrelados aos respectivos cursos na seguinte configuração: 2 alunos para Direito, 2 para Administração, 3 para Medicina; 
+-	Inserir 7 alunos (código do aluno, nome do aluno, CPF, Endereço, CEP, E-mail, número de Telefone) atrelados aos respectivos cursos na seguinte configuração: 2 alunos para Direito, 2 para Administração, 3 para Medicina;
 -	Remover alunos;
 -	Alterar alunos;
 -	Listar os cursos e os alunos que fazem parte deste curso;
@@ -27,7 +27,7 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 -	Legibilidade de código;
 -	Testes;
 -	Coesão;
--	Documentação; 
+-	Documentação;
 -	Hora da Entrega
 -	E não se esqueça do visual;
 
@@ -43,3 +43,4 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 - Ramon Costa Silva - https://github.com/SilvaRamon/desafio
 - Lucas Goiabeira Farias - https://github.com/luucasfarias/Desafio_Ceuma
 - Cristiane Rosental - https://github.com/rosental/ceuma-challenge-api
+- Saulo Guedes - https://github.com/sauloguedes/desafio-ceuma
