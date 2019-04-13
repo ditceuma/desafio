@@ -36,8 +36,10 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 *	O projeto deve sofrer commits ao longo dos dias e não deve ter tudo commitado de uma só vez;
 
 # Adicione o Link do seu projeto aqui:
--	Nome do participante – link do projeto
--	José Reinaldo Pereira Júnior - https://github.com/ReinaldoJunior96/Desafio-Ceuma
+
+- Nome do participante – link do projeto
+- José Reinaldo Pereira Júnior - https://github.com/ReinaldoJunior96/Desafio-Ceuma
 - André Felipe Carvalho Pinheiro - https://github.com/AndreCarvalho94/teste-ceuma
 - Ramon Costa Silva - https://github.com/SilvaRamon/desafio
--   Lucas Goiabeira Farias - https://github.com/luucasfarias/Desafio_Ceuma
+- Lucas Goiabeira Farias - https://github.com/luucasfarias/Desafio_Ceuma
+- Cristiane Rosental - https://github.com/rosental/ceuma-challenge-api
