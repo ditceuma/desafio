@@ -44,3 +44,4 @@ Você foi indicado para desenvolver o sistema com os mesmos requisitos solicitad
 - Lucas Goiabeira Farias - https://github.com/luucasfarias/Desafio_Ceuma
 - Cristiane Rosental - https://github.com/rosental/ceuma-challenge-api
 - Saulo Guedes - https://github.com/sauloguedes/desafio-ceuma
+- Marcos Antonio dos Santos Costa - https://github.com/MarcosPeas/CursosCEUMA
